@@ -2,10 +2,6 @@
 
 An AI application that simulates a full-service digital agency using multiple AI agents to analyze and plan software projects. Each agent represents a different role in the project lifecycle, from strategic planning to technical implementation.
 
-## Demo: 
-
-https://github.com/user-attachments/assets/a0befa3a-f4c3-400d-9790-4b9e37254405
-
 ## Features
 
 ### Five specialized AI agents 
@@ -63,8 +59,8 @@ Before anything else, Please get your OpenAI API Key here: https://platform.open
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd awesome-llm-apps/ai_agent_tutorials/ai_services_agency
+   
+   cd apps/ai_agent_tutorials/ai_services_agency
    ```
 
 2. **Install the dependencies**:
